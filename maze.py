@@ -7,3 +7,5 @@ class Maze:
         self.size=size
         self.nodes=[]
         self.graph=Graph(size*size)
+maze=Maze(5)
+print("welcome to 2D  maze")
